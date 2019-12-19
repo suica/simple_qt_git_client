@@ -53,7 +53,6 @@ This application is developed under Mac OS, using QT5 and C++. It can also be bu
 
 - qt5. 
     - Run `where qmake` (Linux) or `which qmake` (Mac OS) to check whether there is qmake, if not, you need to install qt5 it from the official site.
-    - If you have `python` and `pip` installed, you just need to install qt5 with python and you are also supposed to find `qmake`. Try `pip install pyqt5`, and it will save you much time than downloading the whole QT framework from the official site.
 
 ## For Beginners of Qt
 
