@@ -146,17 +146,21 @@ Screenshots in Mac OS are provided.
 
 The branch tab.
 
-<img src="./pic/branch.png" width="500px" />
+<center>
+<img src="./pic/branch.png" width="600px" />
+</center>
 
 The commit tab.
 
-<img src="./pic/commit.png" width="500px" />
+<center>
+<img src="./pic/commit.png" width="600px" />
+</center>
 
 The config tab.
 
-<img src="./pic/config.png" width="500px" />
-
-
+<center>
+<img src="./pic/config.png" width="600px" />
+</center>
 
 ## External Resources
 
